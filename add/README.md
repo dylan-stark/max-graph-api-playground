@@ -1,3 +1,5 @@
 # A toy MAX Graph adder
 
-Based on [this tutorial](https://docs.modular.com/max/tutorials/get-started-with-max-graph/).
+> Based on [this tutorial](https://docs.modular.com/max/tutorials/get-started-with-max-graph/).
+
+Run with `magic run add`.
