@@ -7,6 +7,7 @@ platforms = ["osx-arm64"]
 version = "0.1.0"
 
 [tasks]
+add = "mojo add.mojo"
 
 [dependencies]
 max = ">=24.6.0.dev2024090905,<25"
