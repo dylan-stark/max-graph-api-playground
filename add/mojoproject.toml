@@ -1,0 +1,12 @@
+[project]
+authors = ["Dylan Stark <dylan.stark@gmail.com>"]
+channels = ["conda-forge", "https://conda.modular.com/max-nightly"]
+description = "Add a short description here"
+name = "max-graph-add"
+platforms = ["osx-arm64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+max = ">=24.6.0.dev2024090905,<25"
